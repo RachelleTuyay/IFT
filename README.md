@@ -11,3 +11,9 @@ Projet IFT pour le cours Fouille de textes en M1 TAL
     |__ `culture` : même chose pour culture
   
 - `scripts` : contient les scripts utilisés dans le projet
+
+
+
+## Entrainement et Classification : 
+
+Utilisation du logiciel Weka pour entrainer sur le corpus
