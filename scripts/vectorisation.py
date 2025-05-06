@@ -1,5 +1,9 @@
 #! /usr/bin/env python3
 
+"""
+Ce script a été récupéré du cours de Fouile de Texte 
+"""
+
 import argparse
 import ast
 import pathlib
