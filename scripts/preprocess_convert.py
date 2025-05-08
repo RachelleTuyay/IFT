@@ -60,4 +60,4 @@ def convert_corpus_to_bow_arff(corpus_dir, output_file, relation_name="BoW_Corpu
 
 # Exemple d'utilisation
 if __name__ == "__main__":
-    convert_corpus_to_bow_arff("data/", "corpus_bow.arff")
+    convert_corpus_to_bow_arff("data/", "Corpus_bow.arff")

@@ -1,0 +1,5 @@
+@RELATION BoW_Corpus
+
+@ATTRIBUTE class {}
+
+@DATA
