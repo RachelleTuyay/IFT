@@ -3,5 +3,5 @@
 [0-9]+[a-z]+
 ä.+
 [a-z]{1}
-
-supprimer les 7-8 premiers attributs manuellement
+π
+supprimer le premier attribut "10x10"
